@@ -1,0 +1,5 @@
+F:\Coding\Yamaha_Remote_Console\bin\Debug\Yamaha_Remote_Console.exe
+F:\Coding\Yamaha_Remote_Console\bin\Debug\Yamaha_Remote_Console.pdb
+F:\Coding\Yamaha_Remote_Console\obj\Debug\Yamaha_Remote_Console.csprojResolveAssemblyReference.cache
+F:\Coding\Yamaha_Remote_Console\obj\Debug\Yamaha_Remote_Console.exe
+F:\Coding\Yamaha_Remote_Console\obj\Debug\Yamaha_Remote_Console.pdb

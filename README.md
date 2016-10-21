@@ -45,17 +45,17 @@ On startup, you can use it this way:
 
 This is accessing the Server "Zeus", entering the "Music Library", entering the list "Titel" and finally plays the title "The Hanging Tree".
 
-Since the pointer is stored on the receiver's cache, you now can simply use `-set_server "Titlename"` to switch the Title. 
+Since the pointer is stored on the receiver's cache, you now can simply use `-set_server "Titlename"` to switch the title. 
 
 If you want to use another server, you have to reset the input first `-input AV1` (for example). I highly recommend to get the names of the arguments you need here from the webinterface.
 
-This function is always setting the input to SERVER and mutes the autoplay, if you want the receiver to autoplay from your last used server, simply use `-input SERVER`.
+This function is always setting the input to SERVER and mutes the autoplay, if you want the receiver to autoplay from your last used server, simply use `-input SERVER`
 
 This function also freezes the program for some seconds (one second per executed argument) in order to work properly.
 
 ### Example Usage
 
-.\Yamaha_Remote_Console.exe -power_on -input AV1 -setvol 450
+`.\Yamaha_Remote_Console.exe -power_on -input AV1 -setvol 450`
 
 Turns the receiver with the ip address "192.168.178.54" on, sets the input to AV1 and sets the volume to -45.00 dB. 
 
